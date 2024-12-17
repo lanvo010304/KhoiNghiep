@@ -1,4 +1,4 @@
-# Tên ý tưởng: "AI-Fertilizer: Công thức phân bón thông minh" - Dịch vụ Nông nghiệp Công nghệ cao (AgriTech)
+# Tên ý tưởng: "Công thức phân bón thông minh"
 
 ### Mô tả chi tiết:
 1) Công nghệ cốt lõi:
