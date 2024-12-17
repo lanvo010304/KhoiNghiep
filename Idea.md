@@ -1,4 +1,4 @@
-# Tên ý tưởng: "Nông nghiệp thông minh"
+# Tên ý tưởng: "Thiết bị nông nghiệp thông minh"
 
 ### Mô tả chi tiết:
 1) Công nghệ cốt lõi:
