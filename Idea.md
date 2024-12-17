@@ -57,10 +57,9 @@ d) Phản hồi và cải tiến:
 ### Mô hình(đề xuất):
 
 1) Phân khúc khách hàng:
-- Nông dân cá thể
-- Chủ trang trại quy mô vừa và lớn
-- Doanh nghiệp nông nghiệp
-- Cơ quan quản lý nông nghiệp địa phương
+- Nông hộ.
+- Doanh nghiệp nông nghiệp.
+- Cơ quan quản lý nông nghiệp địa phương.
 2) Giải pháp giá trị:
 - Công thức phân bón cá nhân hóa dựa trên AI
 - Tăng năng suất cây trồng
