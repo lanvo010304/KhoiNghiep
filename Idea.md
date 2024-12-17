@@ -1,4 +1,4 @@
-# Tên ý tưởng: "Công thức phân bón thông minh"
+# Tên ý tưởng: "Nông nghiệp thông minh"
 
 ### Mô tả chi tiết:
 1) Công nghệ cốt lõi:
