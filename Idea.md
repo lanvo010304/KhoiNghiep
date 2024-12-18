@@ -92,6 +92,7 @@ b) Xử lý dữ liệu:
 - Doanh nghiệp nông nghiệp.
 - Cơ quan quản lý nông nghiệp địa phương.
 - Nhà đầu tư nông nghiệp.
+  
 2) Giải pháp giá trị:
 - Tối ưu hóa sử dụng phân bón.
 - Tăng năng suất và đa dạng hóa cây trồng.
@@ -100,65 +101,47 @@ b) Xử lý dữ liệu:
 - Cải thiện lợi nhuận cho nông dân.
 - Dự báo năng suất và lợi nhuận chính xác.
 - Cảnh báo sớm về dịch bệnh và thời tiết bất lợi.
+  
 3) Kênh phân phối:
-- Ứng dụng di động và nền tảng web
-- Đội ngũ bán hàng và tư vấn trực tiếp
-- Đối tác phân phối thiết bị nông nghiệp
-- Hội thảo và triển lãm nông nghiệp
+- Ứng dụng di động và nền tảng web.
+- Đội ngũ bán hàng và tư vấn trực tiếp.
+- Đối tác phân phối thiết bị nông nghiệp.
+- Hội thảo và triển lãm nông nghiệp.
+  
 4) Quan hệ khách hàng:
 - Hỗ trợ kỹ thuật 24/7.
 - Đào tạo và hướng dẫn sử dụng.
 - Báo cáo hiệu quả định kỳ.
 - Chương trình tri ân khách hàng.
+- 
 5) Dòng doanh thu:
 - Phí đăng ký sử dụng nền tảng (theo tháng/năm).
 - Bán thiết bị cảm biến IoT.
 - Dịch vụ tư vấn và triển khai hệ thống.
+- 
 6) Nguồn lực chính:
 - Đội ngũ kỹ sư phần mềm, và chuyên gia AI, Chuyên gia nông học.
 - Cơ sở dữ liệu về nông nghiệp.
 - Hệ thống phần mềm AI và cơ sở hạ tầng.
+  
 7) Hoạt động chính:
 - Phát triển và cải tiến AI.
 - Thu thập và phân tích dữ liệu nông nghiệp.
 - Nghiên cứu và phát triển sản phẩm mới.
 - Hỗ trợ kỹ thuật và đào tạo khách hàng.
+  
 8) Đối tác chính:
-- Nhà sản xuất thiết bị IoT và cảm biến
-- Công ty sản xuất phân bón
-- Viện nghiên cứu nông nghiệp
-- Cơ quan khí tượng thủy văn
-- Các trường đại học nông nghiệp
+- Nhà sản xuất thiết bị IoT và cảm biến.
+- Viện nghiên cứu nông nghiệp.
+- Cơ quan khí tượng thủy văn.
+  
 9) Cơ cấu chi phí:
-- Chi phí phát triển và duy trì phần mềm AI
-- Lương nhân viên (kỹ sư, chuyên gia nông nghiệp, nhân viên hỗ trợ)
-- Chi phí mua và bảo trì thiết bị IoT
-- Marketing và quảng cáo
-- Chi phí vận hành hệ thống đám mây
+- Chi phí phát triển và duy trì phần mềm
+- Chi phí nghiên cứu và phát triển
+- Chi phí mua sắm và bảo trì thiết bị IoT
+- Chi phí nhân sự (kỹ sư, chuyên gia nông nghiệp, nhân viên hỗ trợ)
+- Chi phí marketing và bán hàng
+- Chi phí vận hành cơ sở hạ tầng công nghệ
+- Chi phí thu thập và xử lý dữ liệu
 
 
-### Hướng đi:
-1) Phân tích thị trường và nhu cầu:
-   
-  **a) Công đoạn 1: Nghiên cứu thị trường nông nghiệp:**
-  - Xác định đối tượng khách hàng mục tiêu (nông dân, doanh nghiệp nông nghiệp, cơ quan quản lý).
-  - Phân tích nhu cầu về phân bón, tình trạng sử dụng phân bón hiện tại, vấn đề cần giải quyết.
-  - Nghiên cứu các giải pháp phân bón hiện có trên thị trường.
-
-  **b) Công đoạn 2: Phân tích điểm mạnh, điểm yếu, cơ hội và thách thức:**
-  - Xác định điểm mạnh của sản phẩm (công nghệ AI, IoT, lợi ích rõ ràng).
-  - Xác định điểm yếu (nông dân chưa quen thuộc với công nghệ, chi phí đầu tư).
-  - Xác định cơ hội (xu hướng nông nghiệp ứng dụng công nghệ, nhu cầu về phân bón thông minh).
-  - Xác định thách thức (cạnh tranh từ các giải pháp khác, khó khăn trong việc tiếp cận nông dân).
-
-2) Xây dựng mô hình sản phẩm và dịch vụ
-   
-**a) Công đoạn 1: Xây dựng mô hình sản phẩm:**
-- Thiết kế hệ thống thu thập dữ liệu (cảm biến IoT, ứng dụng di động).
-- Xây dựng thuật toán AI để phân tích dữ liệu, đưa ra công thức phân bón tối ưu.
-- Phát triển phần mềm quản lý, giao diện người dùng thân thiện.
-
-**b) Công đoạn 2: Xây dựng dịch vụ hỗ trợ:**
-- Đào tạo, hướng dẫn sử dụng sản phẩm cho nông dân.
-- Hỗ trợ kỹ thuật trực tuyến và trực tiếp tại ruộng.
-- Cung cấp dịch vụ tư vấn về kỹ thuật canh tác.
