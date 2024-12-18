@@ -136,12 +136,12 @@ b) Xử lý dữ liệu:
 - Cơ quan khí tượng thủy văn.
   
 9) Cơ cấu chi phí:
-- Chi phí phát triển và duy trì phần mềm
-- Chi phí nghiên cứu và phát triển
-- Chi phí mua sắm và bảo trì thiết bị IoT
-- Chi phí nhân sự (kỹ sư, chuyên gia nông nghiệp, nhân viên hỗ trợ)
-- Chi phí marketing và bán hàng
-- Chi phí vận hành cơ sở hạ tầng công nghệ
-- Chi phí thu thập và xử lý dữ liệu
+- Chi phí phát triển và duy trì phần mềm.
+- Chi phí nghiên cứu và phát triển.
+- Chi phí mua sắm và bảo trì thiết bị IoT.
+- Chi phí nhân sự (kỹ sư, chuyên gia nông nghiệp, nhân viên hỗ trợ).
+- Chi phí marketing và bán hàng.
+- Chi phí vận hành cơ sở hạ tầng công nghệ.
+- Chi phí thu thập và xử lý dữ liệu.
 
 
